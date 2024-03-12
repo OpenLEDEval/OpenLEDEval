@@ -1,0 +1,11 @@
+- [ ]  Overlapping frustums
+- [ ]  Things relevant
+- Product options
+	- ROE will have a product with same drivers, module layout, etc on MVR/Brompton/Colorlight/Novastar
+		- Two tiles of each
+		- Based on BP2 - 2.6/2.8
+		- Meant only for technical evals
+		- Available roughly May timeframe
+		- Colorlight (& friends) tend to have more variance in attention to detail on electronics design
+	- LDM PCB layout can have impact on performance, and may change with processor choice
+	- Sony Verona

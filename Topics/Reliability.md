@@ -1,0 +1,9 @@
+- Product reliability
+    - Establish better language around reliability
+    - MTBF, MTBR
+    - Repairability
+    - Reliability failover time - how long does automated diagnosis & recovery take
+    - X 9s uptime
+    - Aging (calibration)
+    - Product lifetime - address buyer’s remorse issues
+        - Range of performance to be in, not just at the pinnacle
