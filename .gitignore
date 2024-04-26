@@ -98,8 +98,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# quarto site
-/.quarto/
-/_site/
-
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,obsidian,visualstudiocode
