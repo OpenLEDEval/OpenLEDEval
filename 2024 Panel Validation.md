@@ -57,14 +57,14 @@
 
 Please see [[Library]], including the [[Library#Library Wishlist|Wish List!]]
 # Topics/Tasks
-- [ ]  [[Latency]]
+- [ ] [[Latency]]
 	- [ ] [[Latency#ST2110 "Stuff"|ST2110 "Stuff"]]
 	- [ ] [[Latency#PTP|PTP]]
-- [ ]  [[Color Precision & Reproduction]]
+- [ ] [[Color Precision & Reproduction]]
 	- [ ] [[Color Precision & Reproduction#Low Luminance Detail Quality|Low Luminance Detail Quality]]
 	- [ ] [[Color Precision & Reproduction#Spectral Sufficiency|RGB++++ Tests]]
-- [ ]  [[Shutter angle compatibility]]
-- [ ]  [[Multi Cam Features and Workflow]]
+- [ ] [[Shutter angle compatibility]]
+- [ ] [[Multi Cam Features and Workflow]]
 - [ ] [[Viewing Angle and Color Shift]]
 - [ ] [[Reflectance]]
 	- [ ] [[Reflectance#Curved Display Faceting|Curved Display Faceting]]
