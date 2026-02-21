@@ -1,0 +1,1 @@
+- [ ] Figure out how to publish everything in Obsidian to a github page or similar.
